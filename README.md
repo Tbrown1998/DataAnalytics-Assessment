@@ -14,6 +14,7 @@ The repository contains solutions for CowryWise SQL Assessment Test. The project
 ### Technologies Used:
 **DBMS:** Mysql
 **Version Control:** GitHub
+
 ---
 
 ### QUESTION 1:
