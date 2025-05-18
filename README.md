@@ -18,9 +18,9 @@ The repository contains solutions for CowryWise SQL Assessment Test. The project
 ---
 
 ### QUESTION 1:
-#### Scenario: 
+### Scenario: 
 The business wants to identify customers who have both a savings and an investment plan (cross-selling opportunity).
-#### Task: 
+### Task: 
 Write a query to find customers with at least one funded savings plan AND one funded investment plan, sorted by total deposits
 
 ### My Approach: 
@@ -66,9 +66,9 @@ My goal was to analyze and group transactions frequency by all customers and und
 ---
 
 ### QUESTION 3
-## Scenario: 
+### Scenario: 
 The ops team wants to flag accounts with no inflow transactions for over one year.
-## Task: 
+### Task: 
 Find all active accounts (savings or investments) with no transactions in the last 1 year (365 days) .
 
 ### My Approach:
@@ -85,9 +85,9 @@ The goal is to write a SQL query that finds active accountsthat are either savin
 --- 
 
 ### QUESTION 4:
-## Scenario:  
+### Scenario:  
 Marketing wants to estimate CLV based on account tenure and transaction volume (simplified model).
-## Task: 
+### Task: 
 For each customer, assuming the profit_per_transaction is 0.1% of the transaction value, calculate:
 - `Account tenure (months since signup)`
 - `Total transactions`
